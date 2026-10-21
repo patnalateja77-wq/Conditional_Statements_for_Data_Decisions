@@ -1,0 +1,20 @@
+======================================== RESTART: C:/Users/PATNALA RAVI TEJA/OneDrive/Desktop/AI&ML/Conditional Statements for Data Decisions.py =======================================
+Positive Number
+Odd Number
+Pass
+Grade A
+Eligible to Vote
+B is Greater
+Moderate Weather
+Entry Allowed
+Weekend
+Medium Salary
+Eligible for Examination
+Purchase Amount: 2500
+Discount Amount: 250.0
+Final Amount: 2250.0
+Ravi - 92 - Excellent
+Kiran - 78 - Good
+Priya - 65 - Pass
+Arun - 30 - Fail
+Sneha - 85 - Good
